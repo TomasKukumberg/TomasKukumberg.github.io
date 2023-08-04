@@ -1,7 +1,7 @@
 # My personal resume website
 This repository is compiled from [React_Portfolio repository](https://github.com/TomasKukumberg/React_Portfolio). 
 
-You can checkout the website on [https://tomaskukumberg.github.io](https://tomaskukumberg.github.io).
+You can check out the website on [https://tomaskukumberg.github.io](https://tomaskukumberg.github.io).
 
 ## Tech stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
